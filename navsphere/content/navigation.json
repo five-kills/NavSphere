@@ -1390,6 +1390,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761897467360",
+      "title": "个人使用",
+      "icon": "Folder",
+      "description": "个人使用项目",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
