@@ -1397,7 +1397,16 @@
       "icon": "Folder",
       "description": "个人使用项目",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1761897579903",
+          "title": "https://mb.aichaquan.top/com123",
+          "href": "https://mb.aichaquan.top/com123",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://demo.1panel.cn/",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
